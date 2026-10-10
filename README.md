@@ -1,6 +1,6 @@
 # Bitalino-UAI-Project
 
-Taller de Introducción a la Ingeniería, Universidad Adolfo Ibáñez
+Código para el Curso de Taller de Introducción a la Ingeniería año 2026 del Segundo Semestre, Universidad Adolfo Ibáñez
 
 Código que permite consultar, guardar y consultar datos desde un dipositivo receptor utilizando un BItalino.
 
