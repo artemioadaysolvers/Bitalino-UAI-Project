@@ -2,7 +2,9 @@
 
 Código para el Curso de Taller de Introducción a la Ingeniería del año 2026 del Segundo Semestre, Universidad Adolfo Ibáñez
 
-Código que permite consultar, guardar y visualizar datos desde un dipositivo receptor utilizando un BItalino.
+El primer código .ipynb que permite consultar, guardar, procesar y visualizar datos desde un dipositivo receptor utilizando un BItalino.
+
+El segundo código permite generar una App de Escritorio (.exe) a partir del primer Código.
 
 Hecho por el Ayudante Instructor - Corrector Artemio Araya Day con ayuda de Codex.
 
